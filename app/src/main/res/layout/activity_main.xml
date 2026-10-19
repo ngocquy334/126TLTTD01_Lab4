@@ -52,5 +52,18 @@
         android:layout_width="match_parent"
         android:layout_height="6dp"/>
     <LinearLayout
-        android:layout_width=""
-        android:layout_height=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_neon_box"
+        android:orientation="vertical"
+        android:padding="12dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter NumBer 1"
+            android:textolor="#888888"
+            android:textsize="10sp"/>
+        <EditText
+            android:layout_width=""
+            android:layout_height=""
+    </LinearLayout>
